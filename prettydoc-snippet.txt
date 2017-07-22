@@ -1,0 +1,8 @@
+---
+title: "Modeling Card Draws"
+author: "By Joel Dazo"
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+---
