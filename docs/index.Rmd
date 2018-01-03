@@ -1185,16 +1185,6 @@ ggplot(trials.df, aes(x = draw.mean)) +
 ```
 
 
-
-
-
-## Descriptive Statistics
-### Distribution from a single draw
-#### Distribution from a single draw
-##### Distribution from a single draw
-###### Distribution from a single draw
-
-
 </div>
 
 
